@@ -9,12 +9,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "chenjiacheng",
-            "email": "405339556@qq.com"
+            "name": "chenjiachengre",
+            "email": "chenjiachengre@qq.com"
         }
     ],
     "require": {
-        "php": ">=7.0.2",
+        "php": ">=7.0",
         "ext-zlib": "*",
         "guzzlehttp/guzzle": "^7.4",
         "pimple/pimple": "^3.5"
@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Chenjiacheng\\Tim\\": "src"
+            "chenjiachengre\\Tim\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Chenjiacheng\\Tim\\Tests\\": "tests"
+            "chenjiachengre\\Tim\\Tests\\": "tests"
         }
     }
 }
